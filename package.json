@@ -1,0 +1,21 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "**lottery** is a blockchain application built using Cosmos SDK and Tendermint and generated with [Starport](https://github.com/tendermint/starport).",
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@tendermint/starport": "^0.12.0",
+    "g": "^2.0.1",
+    "luxon": "^1.25.0",
+    "vue-datetime": "^1.0.0-beta.14",
+    "vuejs-datepicker": "^1.6.2",
+    "weekstart": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
